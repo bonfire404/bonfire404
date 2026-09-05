@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=bonfire404">
-    <img src="https://komarev.com/ghpvc/?username=bonfire404&label=Profile%20views&color=00FFFF&style=flat-square" alt="bonfire404's profile views" />
+    <img src="https://komarev.com/ghpvc/?username=bonfire404&label=Profile%20views&color=00FFFF&style=flat-square&abbreviated=true" alt="bonfire404's profile views" />
   </a>
 </p>
 
@@ -109,4 +109,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
   <img alt="Breakout Game" src="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
 </picture>
-
